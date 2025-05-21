@@ -147,7 +147,7 @@ Basada en MVVM (Model-View-ViewModel) con StateFlow para la gestión de estado, 
 
 *   **Base de datos local:** Room (KMP).
 *   **Inyección de dependencias:** Kodein.
-*   **Navegación:** Decompose.
+*   **Navegación:** StateFlow.
 
 ## 6. Modelos de datos
 
